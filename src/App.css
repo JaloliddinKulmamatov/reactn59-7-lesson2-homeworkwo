@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.ProductApp {
+  display: flex;
+  grid-template-columns:repeat(2,800px)  ;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  .product-name {
+    margin-bottom: 10px;
+  }
+  .category {
+    margin-bottom: 7px;
+  }
+  .product {
+    padding: 5px;
+    width: 160px;
+    margin: 10px;
+    border: 2px solid #067a19;
+    .price {
+      font-weight: 600;
+      color: #067a19;
+    }
+  }
+}
+
+.filter {
+  padding: 5px;
+  color: aliceblue;
+  background-color: #067a19;
+  select {
+    border: none;
+    color: #067a19;
+  }
+}

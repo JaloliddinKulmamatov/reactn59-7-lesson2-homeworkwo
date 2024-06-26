@@ -1,0 +1,94 @@
+{
+"products": [
+{
+"id": 1,
+"name": "Wireless Bluetooth Headphones",
+"category": "Electronics",
+"price": 79.99,
+"stock": 150,
+"rating": 1,
+"description": "High-quality wireless headphones with noise-cancelling feature and long battery life."
+},
+{
+"id": 2,
+"name": "Smartphone",
+"category": "Electronics",
+"price": 599.99,
+"stock": 75,
+"rating": 2,
+"description": "Latest model smartphone with advanced features, high-resolution camera, and large storage capacity."
+},
+{
+"id": 3,
+"name": "Stainless Steel Water Bottle",
+"category": "Home & Kitchen",
+"price": 24.99,
+"stock": 200,
+"rating": 3,
+"description": "Durable and insulated water bottle, keeps drinks hot or cold for hours."
+},
+{
+"id": 4,
+"name": "Running Shoes",
+"category": "Sports & Outdoors",
+"price": 49.99,
+"stock": 120,
+"rating": 3,
+"description": "Comfortable and lightweight running shoes, designed for optimal performance."
+},
+{
+"id": 5,
+"name": "Electric Kettle",
+"category": "Home & Kitchen",
+"price": 34.99,
+"stock": 80,
+"rating": 4,
+"description": "Fast-boiling electric kettle with automatic shut-off and stainless steel body."
+},
+{
+"id": 6,
+"name": "Yoga Mat",
+"category": "Sports & Outdoors",
+"price": 19.99,
+"stock": 300,
+"rating": 4,
+"description": "Non-slip yoga mat with extra cushioning for comfort during exercises."
+},
+{
+"id": 7,
+"name": "Digital Watch",
+"category": "Accessories",
+"price": 59.99,
+"stock": 90,
+"rating": 1,
+"description": "Stylish digital watch with multiple features including alarm, stopwatch, and backlight."
+},
+{
+"id": 8,
+"name": "Laptop Backpack",
+"category": "Accessories",
+"price": 39.99,
+"stock": 110,
+"rating": 5,
+"description": "Spacious and durable laptop backpack with multiple compartments and padded straps."
+},
+{
+"id": 9,
+"name": "Wireless Mouse",
+"category": "Electronics",
+"price": 14.99,
+"stock": 250,
+"rating": 3,
+"description": "Ergonomic wireless mouse with adjustable DPI settings and long battery life."
+},
+{
+"id": 10,
+"name": "Portable Bluetooth Speaker",
+"category": "Electronics",
+"price": 29.99,
+"stock": 130,
+"rating": 4,
+"description": "Compact and powerful Bluetooth speaker with deep bass and water-resistant design."
+}
+]
+}
